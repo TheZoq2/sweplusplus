@@ -1,0 +1,100 @@
+#define hel int
+#define hufvud main
+#define pekare *
+#define dubbelpekare pekare pekare
+#define referens_till &
+#define dereferera *
+#define skrivutf printf
+#define medans while
+#define placeras puts
+#define mall template
+#define typnamn typename
+#define sluta break
+#define om if
+#define annars else
+#define alternativt else if
+#define uppfostra throw
+#define offentligt public
+#define personligt private
+#define snöre string
+#define bil auto
+#define evig const
+#define fackförbund union
+#define knapp switch
+#define fodral case
+#define rullskridsko inline
+#define default
+#define barnförbjudet explicit
+#define förinta delete
+#define gör do
+#define evig_gjutning const_cast
+#define icke_vid_kompileringstid_bestämd_gjutning dynamic_cast
+#define gratis free
+
+#define könssjukdom std
+
+#define herr_bool bool
+#define oskyltad unsigned
+#define dubbel double
+#define flyt float
+#define vidbränd char
+#define tomma_intet void
+#define inget NULL
+
+#define öppen_krullig_tandställning {
+#define stängd_krullig_tandställning }
+
+
+#define ökas_med_ett ++
+
+#define klass class
+
+
+#define felspråk uppfostra Barn("Fel språk");
+#define int felspråk
+#define main felspråk
+#define char felspråk
+#define * felspråk
+#define & felspråk
+#define printf felspråk
+#define while felspråk
+#define puts felspråk
+#define template felspråk
+#define break felspråk
+#define if felspråk
+#define throw felspråk
+#define public felspråk
+#define private felspråk
+#define std felspråk
+#define string felspråk
+#define auto felspråk
+#define class felspråk
+#define const felspråk
+#define union felspråk
+#define switch felspråk
+#define case felspråk
+#define inline felspråk
+#define default felspråk
+#define explicit felspråk
+#define delete felspråk
+#define do felspråk
+#define const_cast felspråk
+#define dynamic_cast felspråk
+#define static_cast felspråk
+#define free felspråk
+#define else felspråk
+#define enum felspråk
+#define try felspråk
+#define catch felspråk
+#define finally felspråk
+#define export felspråk
+#define extern felspråk
+#define namespace felspråk
+#define operator felspråk
+#define malloc felspråk
+#define alloc felspråk
+#define register felspråk
+#define signed felspråk
+#define this felsprån
+#define swap felspråk
+#define max felspråk

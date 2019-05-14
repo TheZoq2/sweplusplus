@@ -1,0 +1,9 @@
+#include "nyckelord.hufvudpp"
+
+klass Barn öppen_krullig_tandställning
+offentligt:
+    Barn(könssjukdom::snöre meddelande) : meddelande(meddelande)
+        öppen_krullig_tandställning stängd_krullig_tandställning
+personligt:
+    könssjukdom::snöre meddelande;
+stängd_krullig_tandställning;
