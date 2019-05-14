@@ -2,6 +2,9 @@
 #include "nyckelord.hufvudpp"
 #include "barn.hufvudpp"
 
+
+
+
 hel hufvud(hel arga, vidbränd dubbelpekare argv)
 {
     bil i = 0;
