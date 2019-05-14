@@ -30,6 +30,7 @@
 #define evig_gjutning const_cast
 #define icke_vid_kompileringstid_bestämd_gjutning dynamic_cast
 #define gratis free
+#define utgång exit
 
 #define könssjukdom std
 
