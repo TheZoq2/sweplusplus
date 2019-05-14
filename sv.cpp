@@ -1,6 +1,8 @@
+#include "inkluderingar.hpp"
+
 #define hel int
 #define hufvud main
-#define teck char
+#define vidbränd char
 #define pekare *
 #define dubbelpekare pekare pekare
 #define referens_till &
@@ -12,20 +14,34 @@
 #define sluta break
 #define om if
 #define uppfostra throw
+#define offentligt public
+#define personligt private
+#define könssjukdom std
+#define snöre string
+#define bil auto
 
-#include <stdio.h>
+#define klass class
 
-hel hufvud(hel arga, teck dubbelpekare argv)
+klass Barn {
+offentligt:
+    Barn(könssjukdom::snöre meddelande) : meddelande(meddelande)
+        {}
+personligt:
+    könssjukdom::snöre meddelande;
+};
+
+
+hel hufvud(hel arga, vidbränd dubbelpekare argv)
 {
-    hel i = 0;
-    teck dubbelpekare nuvarande = argv;
+    bil i = 0;
+    vidbränd dubbelpekare nuvarande = argv;
 
     medans (i < arga) {
         placeras(dereferera nuvarande);
         nuvarande++;
         i++;
         om (i == 3) {
-            sluta;
+            uppfostra Barn("För många argument");
         }
     }
 }
