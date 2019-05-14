@@ -1,0 +1,3 @@
+
+all:
+	clang++ sv.cpp -finput-charset=UTF-8 --std=c++17
