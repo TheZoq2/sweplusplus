@@ -1,3 +1,7 @@
 
-all:
+all: förberedare
 	clang++ sv.cpp -finput-charset=UTF-8 --std=c++17
+
+förberedare:
+	clang++ förberedare.cpp -finput-charset=UTF-8 --std=c++17 -o förberedare
+

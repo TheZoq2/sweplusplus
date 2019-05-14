@@ -1,3 +1,6 @@
+#ifndef H_NYCKELORD
+#define H_NYCKELORD
+
 #define hel int
 #define hufvud main
 #define pekare *
@@ -49,3 +52,13 @@
 #define ökas_med_ett ++
 
 #define klass class
+
+#define fålinje getline
+
+#define inbäck istream
+#define swein cin
+
+#define använder using
+#define namnrymd namespace
+
+#endif

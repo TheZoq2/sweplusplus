@@ -1,2 +1,6 @@
+#ifndef H_INKLUDERINGAR
+#define H_INKLUDERINGAR
 #include <cstdio>
 #include <string>
+#include <iostream>
+#endif
