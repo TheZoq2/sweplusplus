@@ -18,7 +18,6 @@ personligt:
     könssjukdom::snöre meddelande;
 stängd_krullig_tandställning;
 
-
 hel hufvud(hel arga, vidbränd dubbelpekare argv)
 {
     bil i = 0;
@@ -37,3 +36,4 @@ hel hufvud(hel arga, vidbränd dubbelpekare argv)
 ```
 
 Självklart använder vi [git på svenska](https://github.com/bjorne/git-pa-svenska)
+
